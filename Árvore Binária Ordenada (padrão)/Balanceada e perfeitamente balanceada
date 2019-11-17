@@ -1,0 +1,3 @@
+A árvore é balanceada se a diferença da altura do lado esquerdo e direito é no máximo 1.
+
+Ela é perfeitamente balanceada se a diferença entre a quantidade de termos do lado direito e esquerdo é no máximo 1.
